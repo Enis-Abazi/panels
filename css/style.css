@@ -1489,4 +1489,11 @@ footer .footer-top .row .col .flex .right h3 {
         position: relative;
         top: 105px;
     }
+    .projects .row .left ul {
+        justify-content: unset;
+    }
+    .flex-1,
+    .flex-2 {
+        display: flex;
+    }
 }
